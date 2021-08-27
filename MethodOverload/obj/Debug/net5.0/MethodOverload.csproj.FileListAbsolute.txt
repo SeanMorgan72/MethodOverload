@@ -1,0 +1,15 @@
+/Users/seanmorgan/Projects/MethodOverload/MethodOverload/bin/Debug/net5.0/MethodOverload.deps.json
+/Users/seanmorgan/Projects/MethodOverload/MethodOverload/bin/Debug/net5.0/MethodOverload.runtimeconfig.json
+/Users/seanmorgan/Projects/MethodOverload/MethodOverload/bin/Debug/net5.0/MethodOverload.runtimeconfig.dev.json
+/Users/seanmorgan/Projects/MethodOverload/MethodOverload/bin/Debug/net5.0/MethodOverload.dll
+/Users/seanmorgan/Projects/MethodOverload/MethodOverload/bin/Debug/net5.0/ref/MethodOverload.dll
+/Users/seanmorgan/Projects/MethodOverload/MethodOverload/bin/Debug/net5.0/MethodOverload.pdb
+/Users/seanmorgan/Projects/MethodOverload/MethodOverload/obj/Debug/net5.0/MethodOverload.csproj.AssemblyReference.cache
+/Users/seanmorgan/Projects/MethodOverload/MethodOverload/obj/Debug/net5.0/MethodOverload.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seanmorgan/Projects/MethodOverload/MethodOverload/obj/Debug/net5.0/MethodOverload.AssemblyInfoInputs.cache
+/Users/seanmorgan/Projects/MethodOverload/MethodOverload/obj/Debug/net5.0/MethodOverload.AssemblyInfo.cs
+/Users/seanmorgan/Projects/MethodOverload/MethodOverload/obj/Debug/net5.0/MethodOverload.csproj.CoreCompileInputs.cache
+/Users/seanmorgan/Projects/MethodOverload/MethodOverload/obj/Debug/net5.0/MethodOverload.dll
+/Users/seanmorgan/Projects/MethodOverload/MethodOverload/obj/Debug/net5.0/ref/MethodOverload.dll
+/Users/seanmorgan/Projects/MethodOverload/MethodOverload/obj/Debug/net5.0/MethodOverload.pdb
+/Users/seanmorgan/Projects/MethodOverload/MethodOverload/obj/Debug/net5.0/MethodOverload.genruntimeconfig.cache
